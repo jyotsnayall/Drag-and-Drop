@@ -1,0 +1,17 @@
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode
+
+# Built files directories
+dist
+
+# Dependency directories
+/node_modules
+
+# dist folder (.js)
+dist/*.js
+dist/*.map
+
+src/temp
